@@ -1,4 +1,4 @@
-<h2>Hey there! I'm <b>Fardanaya</b> 👋</h2>
+<h2>Hey there! I'm <b>Franky</b> 👋</h2>
 
 <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
